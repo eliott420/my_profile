@@ -1,4 +1,4 @@
-@media (min-width: 1920px) {
+@media (max-width: 920px) {
   .container {
     width: 800px;
   }
@@ -33,6 +33,7 @@ body {
 
 a {
     color: #ff8900;
+    transition: 0.3s ease;
 }
 
 a:hover {
