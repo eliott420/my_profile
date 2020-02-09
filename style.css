@@ -1,6 +1,6 @@
-@media (max-width: 920px) {
+@media (max-width: 960px) {
   .container {
-    width: 800px;
+    width: 700px;
   }
 }
 @media (max-width: 720px) {
@@ -10,7 +10,7 @@
 }
 @media (max-width: 540px) {
   .container {
-    width: 400px;
+    width: 300px;
   }
 }
 
